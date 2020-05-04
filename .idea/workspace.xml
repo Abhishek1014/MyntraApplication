@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3fb3efc-0728-4bcf-8d43-7626edb70f63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aGa3oPfcWMf3iCeG4JK5EeasRP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586091836818" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.upgrad.myntra.api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.upgrad.myntra.service.exception" />
+      <recent name="com.upgrad.myntra.service.entity" />
+      <recent name="com.upgrad.myntra.service" />
+      <recent name="com.upgrad.myntra.api.controllers" />
+      <recent name="com.upgrad.myntra.api.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myntra-db/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/myntra-db/src/main/resources" />
+      <recent name="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business" />
+      <recent name="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao" />
+      <recent name="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/exception" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyntaApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.myntra.api.MyntaApiApplication" />
+      <module name="myntra-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.myntra.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyntaApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3fb3efc-0728-4bcf-8d43-7626edb70f63" name="Default Changelist" comment="" />
+      <created>1586003787006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586003787006</updated>
+      <workItem from="1588618798092" duration="1033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1586365895991">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1586365895991" />
+    <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586364357963">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1586364357963" />
+    <state x="395" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588619232725">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="395" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1360.738@0.0.1360.738" timestamp="1588619232725" />
+    <state x="476" y="250" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1588619003979">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="476" y="250" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1360.738@0.0.1360.738" timestamp="1588619003979" />
+    <state x="439" y="96" key="FileChooserDialogImpl" timestamp="1588619473058">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="439" y="96" key="FileChooserDialogImpl/0.0.1360.738@0.0.1360.738" timestamp="1588619473058" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1588619474338">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1360.738@0.0.1360.738" timestamp="1588619474338" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586420324123">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586420324123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/AddressService.java</url>
+          <line>89</line>
+          <properties class="com.upgrad.myntra.service.business.AddressService" method="getStateByUUID">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
