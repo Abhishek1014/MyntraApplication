@@ -1,7 +1,7 @@
 
 server:
   servlet:
-    port: 8080
+    port: 80956
     contextPath: /api
 
 spring:
@@ -13,7 +13,7 @@ spring:
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/myntradb
     username: postgres
-    password: postgres
+    password: rana
 
   jpa:
     properties:

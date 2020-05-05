@@ -75,10 +75,6 @@ public class CategoryEntity implements Serializable {
         this.items = items;
     }
 
-    public List<BrandEntity> getbrands() {
-        return brands;
-    }
-
     public void setbrands(List<BrandEntity> brands) {
         this.brands = brands;
     }

@@ -3,24 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="e3fb3efc-0728-4bcf-8d43-7626edb70f63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/AddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/AddressController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/BrandController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/AddressService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/AddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/AddressServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/BrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/BrandServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/AddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/AddressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/BrandController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/controllers/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/AddressList.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/AddressList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/AddressListState.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/AddressListState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandDetailsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandDetailsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandDetailsResponseAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandDetailsResponseAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandDetailsResponseAddressState.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandDetailsResponseAddressState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandList.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/BrandList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/CategoryDetailsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/CategoryDetailsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/CategoryList.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/CategoryList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/CategoryListResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/CategoryListResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/DeleteAddressResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/DeleteAddressResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/ErrorResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/ErrorResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/ItemList.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/ItemList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/LogoutResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/LogoutResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SaveAddressRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SaveAddressRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SaveAddressResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SaveAddressResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SignupCustomerRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SignupCustomerRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SignupCustomerResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/SignupCustomerResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/UpdatePasswordRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/UpdatePasswordRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/UpdatePasswordResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/com/upgrad/myntra/api/model/UpdatePasswordResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/target/classes/io/swagger/configuration/SwaggerDocumentationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/target/classes/io/swagger/configuration/SwaggerDocumentationConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CustomerServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/ItemService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/AddressDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/AddressDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/BrandDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/BrandDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/CategoryDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/ItemDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/ItemDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/entity/AddressEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/entity/AddressEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/ItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/entity/CategoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/entity/CategoryEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/AddressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/AddressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/AddressServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/AddressServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/BrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/BrandServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/ItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/JwtTokenProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/business/JwtTokenProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/entity/AddressEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/entity/AddressEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/entity/CategoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/target/classes/com/upgrad/myntra/service/entity/CategoryEntity.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586003787006</updated>
-      <workItem from="1588618798092" duration="6292000" />
+      <workItem from="1588618798092" duration="9239000" />
     </task>
     <servers />
   </component>
@@ -113,10 +135,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1586365895991" />
-    <state x="485" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1588666813197">
+    <state x="485" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1588669679858">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="485" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1360.738@0.0.1360.738" timestamp="1588666813197" />
+    <state x="485" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1360.738@0.0.1360.738" timestamp="1588669679858" />
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586364357963">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -129,10 +151,30 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="476" y="250" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1360.738@0.0.1360.738" timestamp="1588619003979" />
+    <state x="410" y="115" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588670820141">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="410" y="115" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1360.738@0.0.1360.738" timestamp="1588670820141" />
     <state x="439" y="96" key="FileChooserDialogImpl" timestamp="1588619473058">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="439" y="96" key="FileChooserDialogImpl/0.0.1360.738@0.0.1360.738" timestamp="1588619473058" />
+    <state width="1317" height="559" key="GridCell.Tab.0.bottom" timestamp="1588672357054">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1317" height="559" key="GridCell.Tab.0.bottom/0.0.1360.738@0.0.1360.738" timestamp="1588672357054" />
+    <state width="1317" height="559" key="GridCell.Tab.0.center" timestamp="1588672357054">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1317" height="559" key="GridCell.Tab.0.center/0.0.1360.738@0.0.1360.738" timestamp="1588672357054" />
+    <state width="1317" height="559" key="GridCell.Tab.0.left" timestamp="1588672357054">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1317" height="559" key="GridCell.Tab.0.left/0.0.1360.738@0.0.1360.738" timestamp="1588672357054" />
+    <state width="1317" height="559" key="GridCell.Tab.0.right" timestamp="1588672357054">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1317" height="559" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1588672357054" />
     <state x="160" y="0" key="SettingsEditor" timestamp="1588619474338">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
