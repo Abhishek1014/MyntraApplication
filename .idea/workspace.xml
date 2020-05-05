@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="e3fb3efc-0728-4bcf-8d43-7626edb70f63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/BrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-api/src/main/java/com/upgrad/myntra/api/controllers/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/BrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/business/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/BrandDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/BrandDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/ItemDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/myntra-service/src/main/java/com/upgrad/myntra/service/dao/ItemDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586003787006</updated>
-      <workItem from="1588618798092" duration="1741000" />
+      <workItem from="1588618798092" duration="2575000" />
     </task>
     <servers />
   </component>

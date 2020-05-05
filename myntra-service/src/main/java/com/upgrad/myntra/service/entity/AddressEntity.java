@@ -1,5 +1,7 @@
 package com.upgrad.myntra.service.entity;
 
+import org.hibernate.annotations.ColumnDefault;
+
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import java.io.Serializable;
@@ -40,6 +42,10 @@ public class AddressEntity implements Serializable {
     @OneToOne
     @NotNull
     private StateEntity state;
+
+    @Column(name = "active")
+    @ColumnDefault("1")
+    private Integer active;
 
     public AddressEntity(String uuid, String flatBuilNo, String locality, String city, String pincode, StateEntity state) {
         this.uuid = uuid;
@@ -95,6 +101,14 @@ public class AddressEntity implements Serializable {
 
     public String getPincode() {
         return pincode;
+    }
+
+    public Integer getActive() {
+        return active;
+    }
+
+    public void setActive(Integer active) {
+        this.active = active;
     }
 
     public void setPincode(String pincode) {
