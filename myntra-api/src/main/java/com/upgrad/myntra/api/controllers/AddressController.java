@@ -6,7 +6,6 @@ import com.upgrad.myntra.api.common.Utility;
 import com.upgrad.myntra.service.business.AddressService;
 import com.upgrad.myntra.service.business.CustomerService;
 import com.upgrad.myntra.service.entity.AddressEntity;
-import com.upgrad.myntra.service.entity.CustomerAddressEntity;
 import com.upgrad.myntra.service.entity.CustomerEntity;
 import com.upgrad.myntra.service.entity.StateEntity;
 import com.upgrad.myntra.service.exception.AddressNotFoundException;

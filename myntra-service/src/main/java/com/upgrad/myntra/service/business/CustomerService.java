@@ -18,7 +18,7 @@ public interface CustomerService {
     CustomerEntity saveCustomer(CustomerEntity customerEntity) throws SignUpRestrictedException;
     CustomerAuthEntity authenticate(String contactNumber, String password) throws AuthenticationFailedException;
     CustomerAuthEntity logout(String access_token) throws AuthorizationFailedException;
-    void authorization(String access_token) throws AuthorizationFailedException;
+    CustomerAuthEntity authorization(String access_token) throws AuthorizationFailedException;
     CustomerEntity updateCustomerPassword(String oldPassword, String newPassword, CustomerEntity customerEntity) throws
             UpdateCustomerException;
     CustomerEntity getCustomer(String access_token) throws AuthorizationFailedException;
